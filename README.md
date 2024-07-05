@@ -1,4 +1,4 @@
-# blacksun-ai
+# Black Sun AI
 Unlocking invaluable knowledge for everyone, and improving financial well being of gig workers, with AI!
 
 # The story behind the name

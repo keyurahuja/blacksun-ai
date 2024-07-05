@@ -1,6 +1,11 @@
 # Black Sun AI
 Unlocking invaluable knowledge for everyone, and improving financial well being of gig workers, with AI!
 
+# Why It Matters
+Social justice is true wealth because it ensures that all individuals have equal access to resources, opportunities, and rights, leading to a more harmonious and sustainable society. When people are treated fairly and given the means to improve their lives, it fosters community resilience, economic stability, and overall well-being. This holistic approach to wealth goes beyond mere financial gain, encompassing the equitable distribution of resources and the empowerment of marginalized groups. By promoting social justice, we create a foundation where every person can contribute to and benefit from societal progress, ultimately leading to a more inclusive and robust economy.
+
+Giving tips to gig workers ties directly into the principles of social justice by recognizing and valuing the labor of individuals who are often overlooked and underpaid. Many gig workers lack the benefits and job security that traditional employment offers, making financial tips a crucial means of support. By encouraging users to tip gig workers, Black Sun AI helps redistribute wealth and acknowledges the essential contributions of these workers. This practice not only promotes economic equity but also ties into combating climate change. When gig workers are financially supported, they are more likely to invest in sustainable practices and solutions. Moreover, fostering economic justice can reduce poverty-related environmental degradation, as communities with sufficient resources can better prioritize and engage in eco-friendly initiatives. Thus, tipping gig workers aligns with broader goals of social justice and environmental sustainability, contributing to a fairer and more resilient world.
+
 # The story behind the name
 The name "Black Sun AI" is deeply symbolic, drawing on the concept of the Black Sun, which represents hidden wisdom and the emergence of enlightenment from darkness. Our mission is to make advanced knowledge accessible to everyone, harnessing AI to unlock insights and information that were previously out of reach. By doing so, we aim to shine a light on the unknown and empower individuals from all walks of life with practical, actionable knowledge.
 

@@ -1,6 +1,7 @@
 # blacksun-ai
 Unlocking invaluable knowledge for everyone, and improving financial well being of gig workers, with AI!
 
+# 💲 Pay It Forward
 All inspiration for this project draws from reading books by Alice Bailey and Manly Hall. So if you would like to "pay it forward", please consider donating to Lucis Trust or The Philosophical Research Society!
 
 [Donate to Lucis Trust](https://www.lucistrust.org/donate/USD)

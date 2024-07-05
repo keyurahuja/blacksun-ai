@@ -1,6 +1,11 @@
 # blacksun-ai
 Unlocking invaluable knowledge for everyone, and improving financial well being of gig workers, with AI!
 
+#The story behind the name
+The name "Black Sun AI" is deeply symbolic, drawing on the concept of the Black Sun, which represents hidden wisdom and the emergence of enlightenment from darkness. Our mission is to make advanced knowledge accessible to everyone, harnessing AI to unlock insights and information that were previously out of reach. By doing so, we aim to shine a light on the unknown and empower individuals from all walks of life with practical, actionable knowledge.
+
+At Black Sun AI, we believe in the transformative potential of AI to process and analyze vast amounts of data, revealing patterns and insights that can benefit society as a whole. The Black Sun, in this context, represents the hidden depths of the unconscious that AI can illuminate. Our platform provides valuable information to users and encourages them to pay tips to gig workers if they benefit from the knowledge provided.
+
 # 💲 Pay It Forward
 All inspiration for this project draws from reading books by Alice Bailey and Manly Hall. So if you would like to "pay it forward", please consider donating to Lucis Trust or The Philosophical Research Society!
 

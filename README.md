@@ -1,6 +1,12 @@
 # blacksun-ai
 Unlocking invaluable knowledge for everyone, and improving financial well being of gig workers, with AI!
 
+All inspiration for this project draws from reading books by Alice Bailey and Manly Hall. So if you would like to "pay it forward", please consider donating to Lucis Trust or The Philosophical Research Society!
+
+[Donate to Lucis Trust](https://www.lucistrust.org/donate/USD)
+
+[Donate to The Philosophical Research Society](https://givebutter.com/Ac3U1D)
+
 ## 🚀 About Me
 I'm Keyur Ahuja, an author and entrepreneur. I have written 6 books and launched 15 startups and 4 nonprofits till now. You can learn more by visiting my profile.
 

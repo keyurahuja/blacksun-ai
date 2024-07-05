@@ -2,7 +2,7 @@
 Unlocking invaluable knowledge for everyone, and improving financial well being of gig workers, with AI!
 
 ## 🚀 About Me
-I'm Keyur Ahuja, an author and entrepreneur. I have written 2 books and launched 10 startups till now. You can learn more by visiting my profile.
+I'm Keyur Ahuja, an author and entrepreneur. I have written 6 books and launched 17 startups till now. You can learn more by visiting my profile.
 
 
 ## 🔗 Links

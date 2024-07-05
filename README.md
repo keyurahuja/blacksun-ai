@@ -12,7 +12,7 @@ The name "Black Sun AI" is deeply symbolic, drawing on the concept of the Black 
 At Black Sun AI, we believe in the transformative potential of AI to process and analyze vast amounts of data, revealing patterns and insights that can benefit society as a whole. The Black Sun, in this context, represents the hidden depths of the unconscious that AI can illuminate. We provide valuable information to people like you across the globe for free and encourage all of you to pay tips to gig workers if you benefit from the knowledge provided.
 
 # 💲 Pay It Forward
-All inspiration for this project draws from reading books by Alice Bailey and Manly Hall. So if you would like to "pay it forward", please consider donating to Lucis Trust or The Philosophical Research Society!
+All inspiration for this project draws from reading books by Alice Bailey and Manly Hall. So if you are a gig worker and would like to "pay it forward", please consider donating to Lucis Trust or The Philosophical Research Society!
 
 [Donate to Lucis Trust](https://www.lucistrust.org/donate/USD)
 

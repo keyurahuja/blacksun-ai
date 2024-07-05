@@ -20,7 +20,7 @@ All inspiration for this project draws from reading books by Alice Bailey and Ma
 
 # Corporate Sponsorship
 
-Supporting Black Sun AI through corporate sponsorship offers a unique opportunity for companies to align with a global nonprofit dedicated to democratizing access to invaluable knowledge. By sponsoring us, your company not only demonstrates a commitment to social justice but also actively contributes to making knowledge accessible to all, regardless of geographical or economic barriers. Our model of providing free knowledge encourages users to support gig workers by tipping them, fostering a fair and equitable digital economy.
+Supporting Black Sun AI through a corporate sponsorship offers a unique opportunity for companies to align with a global nonprofit dedicated to democratizing access to invaluable knowledge. By sponsoring us, your company not only demonstrates a commitment to social justice but also actively contributes to making knowledge accessible to all, regardless of geographical or economic barriers. Our model of providing free knowledge encourages users to support gig workers by tipping them, fostering a fair and equitable digital economy.
 
 As a sponsor, your company's logo and name will be prominently featured on our website, showcasing your dedication to social responsibility and supporting global access to education. This partnership not only enhances your brand's reputation but also engages your stakeholders in meaningful initiatives that empower individuals worldwide. Together, we can create a more equitable and informed society, where knowledge empowers and uplifts communities, laying the foundation for a brighter future for all.
 

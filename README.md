@@ -2,7 +2,7 @@
 Unlocking invaluable knowledge for everyone, and improving financial well being of gig workers, with AI!
 
 # What Is Black Sun AI?
-Black Sun AI is dedicated to making invaluable information accessible to all through an unique and engaging format. We specialize in curating and presenting knowledge in ways that empower individuals to learn and grow, regardless of their background or location.
+Black Sun AI is dedicated to making invaluable information accessible to all through a unique and engaging format. We specialize in curating and presenting knowledge in ways that empower individuals to learn and grow, regardless of their background or location.
 
 In addition to our mission of knowledge dissemination, Black Sun AI is committed to uplifting the financial well-being of gig workers globally. Through our innovative approach, users are encouraged to show their appreciation for the knowledge they receive by tipping gig workers on default platforms. This initiative not only supports these essential contributors but also promotes a fair digital economy where everyone's efforts are valued and rewarded equitably. By bridging access to information and supporting gig workers, we aim to create a more inclusive and supportive global community.
 

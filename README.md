@@ -41,7 +41,7 @@ Supporting Black Sun AI through a corporate sponsorship offers a unique opportun
 
 As a sponsor, your company's logo and name will be prominently featured on our website, showcasing your dedication to social responsibility and supporting global access to education. This partnership not only enhances your brand's reputation but also engages your stakeholders in meaningful initiatives that empower individuals worldwide. Together, we can create a more equitable and informed society, where knowledge empowers and uplifts communities, laying the foundation for a brighter future for all.
 
-For becoming a corporate sponsor, please send a mail to ahuja.keyur@outlook.com
+For becoming a corporate sponsor, please send an email to ahuja.keyur@outlook.com
 
 ## 🚀 About Me
 I'm Keyur Ahuja, an author and entrepreneur. I have written 6 books and launched 15 startups and 4 nonprofits till now. You can learn more by visiting my profile.

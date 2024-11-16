@@ -44,7 +44,7 @@ As a sponsor, your company's logo and name will be prominently featured on our w
 For becoming a corporate sponsor, please send an email to ahuja.keyur@outlook.com
 
 ## 🚀 About Me
-I'm Keyur Ahuja, an author and entrepreneur. I have written 6 books and launched 15 startups and 4 nonprofits till now. You can learn more by visiting my profile.
+I'm Keyur Ahuja, an author and entrepreneur. I love writing books and building startups. You can learn more by visiting my profile.
 
 
 ## 🔗 Links
